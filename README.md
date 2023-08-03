@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**BrettIRL/BrettIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brett, a self-taught full stack TypeScript developer currently based in Johannesburg, South Africa.
 
-Here are some ideas to get you started:
+## 🔧 Things I can do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Programming languages: TypeScript, JavaScript, Swift, PHP
+- 🖼️ Frameworks: React, Svelte, Vue, Express
+- 🗄️ Databases: MongoDB, PostgreSQL
+- 🗣️ Human languages: English, Afrikaans
+- 🤹 Other skills: AWS, Docker, SCSS, GraphQL, Git
+
+## 📖 Things I am learning
+
+- htmx
+- AI Video Annotation
+- [Writing an Interpreter in Go](https://interpreterbook.com/)
+
+## 💪 Things I do for fun
+
+- 🏌 Golf
+- ⚽️ Football
+- ⌨️ Coding
+- 🎮 Video Games
+
+## 🧮 Stats
+
+[![Brett's GitHub stats](https://stats.cocking.dev/api?username=BrettIRL&show_icons=true&hide=stars&count_private=true&theme=tokyonight)](https://github.com/BrettIRL)
+
+## 📫 How to reach me
+
+- 🔗 [Website](https://cocking.dev)
